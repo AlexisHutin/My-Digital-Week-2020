@@ -1,7 +1,7 @@
 # VHCIE - My Digital Week 2020
 
 ## Jour 1 : 2 Juin 2020
-Pour ce Premmier jour de My Digital Week, nous avons commencé par organiser les tâches en fonction des affinités de chacun.  
+Pour ce premier jour de My Digital Week, nous avons commencé par organiser les tâches en fonction des affinités de chacun.  
 Nous avons donc choisi de nous organiser comme ceci : 
 * Thoma : Chef de projet & Designer
 * Amélie : Designer
