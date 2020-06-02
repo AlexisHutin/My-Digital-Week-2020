@@ -14,6 +14,19 @@ Nous avons également décidé de suivre cette emploi du temps :
 * Jeudi : Terminer l'intégration/developpement, le logo & mettre en page la charte graphique
 * Vendredi : Préparation de la présentation au client & présentation
 
+Nous avons choisi les couleurs du projet : 
+
+![Palette de couleurs](img/palette.png)
+
+& fait deux propositions de logo : 
+
+![Proposition 1](img/logov1.png)
+![Proposition 2](img/logov2.png)
+
+Nous avons égelement commencer à travailler le design de la page principale :
+
+![Page principal](img/screen_jour_1.png)  
+
 ___
 ## Jour 2 : 3 Juin 2020
 ***
