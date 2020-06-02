@@ -14,7 +14,7 @@ Nous avons également décidé de suivre cette emploi du temps :
 * Jeudi : Terminer l'intégration/developpement, le logo & mettre en page la charte graphique
 * Vendredi : Préparation de la présentation au client & présentation
 
-***
+___
 ## Jour 2 : 3 Juin 2020
 ---
 ## Jour 3 : 4 Juin 2020
