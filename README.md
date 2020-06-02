@@ -16,8 +16,8 @@ Nous avons également décidé de suivre cette emploi du temps :
 
 ___
 ## Jour 2 : 3 Juin 2020
----
+***
 ## Jour 3 : 4 Juin 2020
----
+===
 ## Jour 4 : 5 Juin 2020
 ---
