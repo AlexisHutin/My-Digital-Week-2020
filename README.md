@@ -8,10 +8,10 @@ Nous avons donc choisi de nous organiser comme ceci :
 * Alexis : Développeur/Intégrateur
 * Joanel : Designer & Développeur/Intégrateur
 
-Nous avons également décidé de suivre cette emploi du temps :
+Nous avons également décidé de suivre cet emploi du temps :
 * Mardi : Réflexion & début de travail sur le prototype ainsi que le logo
-* Mercredi : Continuer le travail sur le prototype & commencer l'intégration/developpement
-* Jeudi : Terminer l'intégration/developpement, le logo & mettre en page la charte graphique
+* Mercredi : Continuer le travail sur le prototype & commencer l'intégration/développement
+* Jeudi : Terminer l'intégration/développement, le logo & mettre en page la charte graphique
 * Vendredi : Préparation de la présentation au client & présentation
 
 Nous avons choisi les couleurs du projet : 
@@ -23,7 +23,7 @@ Nous avons choisi les couleurs du projet :
 ![Proposition 1](img/logov1.png)
 ![Proposition 2](img/logov2.png)
 
-Nous avons également commencer à travailler le design de la page principale :
+Nous avons également commencé à travailler sur le design de la page principale :
 
 ![Page principal](img/screen_jour_1.png)  
 
