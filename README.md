@@ -8,7 +8,7 @@ Nous avons donc choisi de nous organiser comme ceci :
 * Alexis : Développeur/Intégrateur
 * Joanel : Designer & Développeur/Intégrateur
 
-Nous avons également décidé de suivre cette emploi du temps :
+Nous avons également décidé de suivre cet emploi du temps :
 * Mardi : Réflexion & début de travail sur le prototype ainsi que le logo
 * Mercredi : Continuer le travail sur le prototype & commencer l'intégration/developpement
 * Jeudi : Terminer l'intégration/developpement, le logo & mettre en page la charte graphique
