@@ -10855,7 +10855,7 @@ label.panel-block:hover {
 /*# sourceMappingURL=bulma.css.map */
 
 
-/*  AJOUT PERSO  */
+/*------------- AJOUT PERSO ----------------*/
 
 .has-image-centered {
   margin-left: auto;
@@ -10875,3 +10875,6 @@ label.panel-block:hover {
 .no-border{
   border: none;
 }
+
+
+
