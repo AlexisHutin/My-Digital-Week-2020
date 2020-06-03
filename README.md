@@ -2,13 +2,13 @@
 
 Dans le cadre de notre deuxième année d'étude à My Digital School Rennes une semaine est concacrée à la réalisation d'un projet pour un client. Cette année c'est Anne-Hélène Olivier chercheuse au sein du laboratoire M2S de l'université de Rennes 2.
 
-Elle souhaite créer un site web pour un événement internationnal, le [VHCIE](https://sites.google.com/view/vhcieieeevr2020/home
+Elle souhaite créer un site web pour un événement international, le [VHCIE](https://sites.google.com/view/vhcieieeevr2020/home
 ) édition 2021.
 
-Le workshop VHCIE (Virtual Humans and Crowds in Immersive Environments) est un  workshop organisé dans le cadre de la conférence internationale annuelle [IEEE Virtual Reality](http://ieeevr.org/2020/), conférence majeure du domaine. Cet atelier d’une demie journée a pour  contexte général les travaux concernant l’interaction entre un utilisateur et des foules et  humains virtuels dans des environnements immersifs. Il vise à générer des discussions sur  des techniques d'animation de ces humains virtuels interactifs,  nouvelles recherches sur  les avatars, les besoins pour les applications futures.  
-Comme d’autres ateliers, il s’agit d’un événement satellite de la conférence IEEE VR et qui a  pour participants des académiques intéressés par la recherche sur les interactions entre  un utilisateur et des humains virtuels. Avec une audience d’une  cinquantaine de  spécialistes, il offre la possibilité aux auteurs de soumettre leurs travaux de recherche qui  s’inscrivent dans les thématiques de l’atelier et d’assister à des présentations dispensées  par un invité reconnu du domaine.
+Le workshop VHCIE (Virtual Humans and Crowds in Immersive Environments) est un  workshop organisé dans le cadre de la conférence internationale annuelle [IEEE Virtual Reality](http://ieeevr.org/2020/), conférence majeure du domaine. Cet atelier d’une demi journée a pour contexte général les travaux concernant l’interaction entre un utilisateur avec des foules et humains virtuels dans des environnements immersifs. Il vise à générer des discussions sur des techniques d'animation de ces humains virtuels interactifs,  nouvelles recherches sur les avatars, les besoins pour les applications futures.  
+Comme d’autres ateliers, il s’agit d’un événement satellite de la conférence IEEE VR et qui a pour participants des académiques intéressés par la recherche sur les interactions entre  un utilisateur et des humains virtuels. Avec une audience d’une cinquantaine de  spécialistes, il offre la possibilité aux auteurs de soumettre leurs travaux de recherche qui s’inscrivent dans les thématiques de l’atelier et d’assister à des présentations dispensées par un invité reconnu du domaine.
 
-Le site doit permettre aux visiteurs de trouver facilement les informations importantes comme les dates importantes, le lieu, les différents intervenants & aux chercheurs de soumettre (via mail) leurs travaux avant l'évenement.
+Le site doit permettre aux visiteurs de trouver facilement les informations importantes comme les dates des workshop, le lieu, les différents intervenants & permettre aux chercheurs de trouver les moyens de soumettre (via mail) leurs travaux avant l'évenement.
 
 Notre équipe est constituée de 4 membres : 
 
@@ -21,7 +21,7 @@ Notre équipe est constituée de 4 membres :
 Pour ce premier jour de My Digital Week, nous avons commencé par organiser les tâches en fonction des affinités de chacun.  
 Nous avons donc choisi de nous organiser comme ceci : 
 * Thoma : Chef de projet & Designer
-* Amélie : Designer
+* Amélie : Designer/Intégrateur
 * Alexis : Développeur/Intégrateur
 * Joanel : Designer & Développeur/Intégrateur
 
@@ -49,13 +49,13 @@ ___
 
 Nous avons commencé la journée en consultant notre client afin de récolter son avis à propos des premiers jets de logos que nous avions créés la veille.  
 
-Suite à sa réponse rapide nous avons corrigé le deuxième logo, celui qui lui plaisait le plus, et nous avons donc clôturé la création de logo ici.  
+Suite à sa réponse rapide nous avons corrigé le deuxième logo, celui qui lui plaisait le plus, et nous avons donc clôturé la création de logo.  
 
 Le logo final est donc celui ci : 
 
 ![Logo VHCIE](img/logo.png)  
 
-En parallèle nous presque finalisé les maquettes de toutes les pages.
+En parallèle nous avons presque finalisé les maquettes de toutes les pages.
 
 ![Home page](img/Home.png) 
 ![Committee page](img/Committee.png) 
@@ -63,7 +63,7 @@ En parallèle nous presque finalisé les maquettes de toutes les pages.
 ![Submission page](img/Submission.png)
 
 Graçe à l'avancement des maquettes l'integration a pu commencer aujourd'hui. 
-La structure de toutes les pages est en place, il ne nous reste que le style à faire.
+La structure de toutes les pages est en place, il ne nous reste qu'à travailler les feuilles de style.
 
 ***
 ## Jour 3 : 4 Juin 2020
