@@ -10861,6 +10861,15 @@ label.panel-block:hover {
   margin-left: auto;
   margin-right: auto;
 }
+
+.has-image-start{
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.is-alligne-end{
+  text-align: end;
+}
 /* Noir #110002 orangelight #F28705 jaunelight #F2C12E jaune #F2C12E rouge #A60311 orange #F25D07  */
 .is-black {
   background-color: #110002;
@@ -10874,6 +10883,14 @@ label.panel-block:hover {
 
 .no-border{
   border: none;
+}
+
+.is-jaunelight{
+  background-color: #F2D98D;
+}
+
+.is-1{
+  width: 6% !important;
 }
 
 

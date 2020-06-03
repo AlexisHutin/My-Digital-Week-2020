@@ -3,6 +3,11 @@ footer a{
     color: white;
 }
 
+footer .ico{
+    font-size: 25;
+    padding: 2%;
+}
+
 footer h4{
     color: #F25D07;
 }
@@ -25,18 +30,18 @@ nav img{
     color: #F25D07;
 } 
 
-#home-content a{
+#home-content .ico{
     color: black;
-    
+    font-size: 50;
+    padding-right: 5%;
 }
 
-.columns{
+#home-content .columns{
     padding-left: 5%;
     padding-right: 5%;
 }
 
-.column{
+#home-content .column{
     padding-left: 5%;
     padding-right: 5%; 
 }
-
