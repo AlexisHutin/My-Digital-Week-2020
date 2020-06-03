@@ -23,7 +23,7 @@ Nous avons choisi les couleurs du projet :
 ![Proposition 1](img/logov1.png)
 ![Proposition 2](img/logov2.png)
 
-Nous avons égelement commencer à travailler le design de la page principale :
+Nous avons également commencer à travailler le design de la page principale :
 
 ![Page principal](img/screen_jour_1.png)  
 
