@@ -65,7 +65,7 @@ En parallèle nous avons presque finalisé les maquettes de toutes les pages.
 ![Schedule page](img/Schedule.png) 
 ![Submission page](img/Submission.png)
 
-Graçe à l'avancement des maquettes l'integration a pu commencer aujourd'hui. 
+Grace à l'avancement des maquettes l'intégration a pu commencer aujourd'hui. 
 La structure de toutes les pages est en place, il ne nous reste qu'à travailler les feuilles de style.
 
 ***
