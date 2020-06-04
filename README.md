@@ -2,6 +2,9 @@
 
 Dans le cadre de notre deuxième année d'étude à My Digital School Rennes une semaine est concacrée à la réalisation d'un projet pour un client. Cette année c'est Anne-Hélène Olivier chercheuse au sein du laboratoire M2S de l'université de Rennes 2.
 
+4 équipes (formées au sein de la promotion) disposeront de 4 jours pour réaliser un site web & présenter leur réalisation.  
+La cliente choisira le projet qu'elle a préféré parmis les différents projets présentés. 
+
 Elle souhaite créer un site web pour un événement international, le [VHCIE](https://sites.google.com/view/vhcieieeevr2020/home
 ) édition 2021.
 
@@ -12,9 +15,9 @@ Le site doit permettre aux visiteurs de trouver facilement les informations impo
 
 Notre équipe est constituée de 4 membres : 
 
- * **Amélie Nicoux** : [LinkedIn](https://www.linkedin.com/in/amelienicoux/), [Behance](https://www.behance.net/amelienicoux)  
+* **Amélie Nicoux** : [LinkedIn](https://www.linkedin.com/in/amelienicoux/), [Behance](https://www.behance.net/amelienicoux)  
 * **Thoma Decroux-Menier** : [LinkedIn](https://www.linkedin.com/in/thoma-decroux-menier/), [Behance]()  
-* **Joanel Charicaul** : [LinkedIn](https://www.linkedin.com/in/charicauth-joanel/), [Behance]()  
+* **Joanel Charicaul** : [LinkedIn](https://www.linkedin.com/in/charicauth-joanel/), [Behance](https://www.behance.net/cryj)  
 * **Alexis Hutin** (moi même) : [LinkedIn](https://www.linkedin.com/in/alexis-hutin/)  
 
 ## Jour 1 : 2 Juin 2020
