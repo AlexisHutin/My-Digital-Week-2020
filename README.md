@@ -66,7 +66,7 @@ En parallèle nous avons presque finalisé les maquettes de toutes les pages.
 ![Submission page](img/Submission.png)
 
 Grace à l'avancement des maquettes l'intégration a pu commencer aujourd'hui. 
-La structure de toutes les pages est en place, il ne nous reste qu'à travailler les feuilles de style.
+La structure de toutes les pages est en place, il ne nous reste plus qu'à travailler sur les feuilles de style.
 
 ***
 ## Jour 3 : 4 Juin 2020
