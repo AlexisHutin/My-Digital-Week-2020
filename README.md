@@ -16,7 +16,7 @@ Le site doit permettre aux visiteurs de trouver facilement les informations impo
 Notre équipe est constituée de 4 membres : 
 
 * **Amélie Nicoux** : [LinkedIn](https://www.linkedin.com/in/amelienicoux/), [Behance](https://www.behance.net/amelienicoux)  
-* **Thoma Decroux-Menier** : [LinkedIn](https://www.linkedin.com/in/thoma-decroux-menier/), [Behance]()  
+* **Thoma Decroux-Menier** : [LinkedIn](https://www.linkedin.com/in/thoma-decroux-menier/)  
 * **Joanel Charicaul** : [LinkedIn](https://www.linkedin.com/in/charicauth-joanel/), [Behance](https://www.behance.net/cryj)  
 * **Alexis Hutin** (moi même) : [LinkedIn](https://www.linkedin.com/in/alexis-hutin/)  
 
