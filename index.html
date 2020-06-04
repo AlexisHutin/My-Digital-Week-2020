@@ -6,7 +6,24 @@
         <link rel="stylesheet" href="css/style.css">
         <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 	</head>
-	<body>       
+	<body> 
+        <nav class="topnav is-orange is-fixed-top" id="socials">
+            <div class="container is-fluid">
+                <div class="navbar-end">
+                    <a class="navbar-item" href="mailto:"> adresse@eamil.bzh </a>
+                    <a class="navbar-item ico" href="">
+                        <i class="fab fa-slack"></i>
+                    </a>
+                    <a class="navbar-item ico" href="">
+                        <i class="fab fa-twitch"></i>
+                    </a>
+                    <a class="navbar-item ico" href="l">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </div> 
+            </div>
+        </nav>
+        
         <nav class="navbar is-black" role="navigation" aria-label="main navigation">
             <div class="container is-fluid">
                <div class="navbar-brand">
@@ -16,18 +33,18 @@
                 </div>
 
                 <div class="navbar-end">
-                    <a class="navbar-item has-text-weight-bold" href="">
+                    <a class="navbar-item has-text-weight-bold is-orange" href="index.html">
                         Home
                     </a>
-                    <a class="navbar-item has-text-weight-bold" href="">
+                    <a class="navbar-item has-text-weight-bold" href="committee.html">
                         Committee
                     </a>
-                    <a class="navbar-item has-text-weight-bold" href="">
+                    <a class="navbar-item has-text-weight-bold" href="schedule.html">
                         Schedule
                     </a>
 
                     <div class="buttons">
-                        <a href="" class="button is-orange no-border">
+                        <a href="submission.html" class="button is-orange no-border">
                             <strong>Submission</strong>
                         </a>
                     </div>
@@ -49,35 +66,39 @@
                         future applications.
                     </p>
                     <br>
-                    <div class="box has-background-primary">
-                        
-                        <p>When</p>
-                        <p>Mars 22nd</p>
-                        <br>
-                        <p>Where</p>
-                        <p>Lisbon, Portugal</p>
-                            
-                        <div class="buttons">
-                            <a href="" class="button is-orange no-border">
-                                <strong>Submission</strong>
-                            </a>
-                        </div>
-                        <a href="">Register on IEEE</a>
-                            
+                    <div class="box is-jaunelight">
+                        <div class="columns">
+                            <div class="column">
+                                <div class="container">
+                                    <span class="box-little"><p>When</p></span>
+                                    <span class="box-big"><p>Mars 22nd</p></span>
+                                    <br>
+                                    <span class="box-little"><p>Where</p></span>
+                                    <span class="box-big"><p>Lisbon, Portugal</p></span>
+                                </div>
+                            </div>
+                            <div class="column">
+                                <div class="container">
+                                    <br>
+                                    <div class="buttons">
+                                        <a href="submission.html" class="button is-orange no-border">
+                                            <strong>Submission</strong>
+                                        </a>
+                                    </div>
+                                    <a href="" id="box-link">Register on IEEE</a>
+                                </div>
+                            </div>
+                        </div>  
                     </div> 
                 </div>
                 <div class="column">
                     <img src="img/illustration_home.svg" alt="illustration home">
-                    <br>
-                    <a href="" class="ico"><i class="fab fa-slack"></i></a>
-                    <a href="" class="ico"><i class="fab fa-twitch"></i></a>
-                    <a href="" class="ico"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
         </div>
 
-        <div class="container is-fluid has-background-danger" id="frise">
-            <div class="container has-background-dark">
+        <div class="container is-fluid has-background-black" id="frise">
+            <div class="container has-text-white">
                 <div class="columns has-text-centered">
                     <div class="column">
                         <p>SUBMISSION</p>
@@ -102,16 +123,17 @@
         <div class="container is-fluid" id="keynote">
             <div class="container">
                 <h2>Keynote Speaker</h2>
-
+                <br>
                 <div class="columns">
                     <div class="column .has-image-start is-2">
                         <figure class="image is-128x128">
                             <img src="https://bulma.io/images/placeholders/128x128.png">
                         </figure>
                     </div>
-                    <div class="column">
-                        <p>Christiaan Huygens</p>
-                        <p>Mathematician, astronomer, and physicist</p>
+                    <div class="column is-4">
+                        <span class="speaker"><p>Christiaan Huygens</p></span>
+                        <span class="speaker-info"><p>Mathematician, astronomer, and physicist</p></span>
+                        <br>
                         <p>
                             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
                             sed diam nonumy eirmod tempor invidunt ut labore et dolore 
@@ -120,13 +142,21 @@
                             sea takimata sanctus est Lorem ipsum dolor sit amet.
                         </p>
                     </div>
-                    <div class="column">
-                        <p>Applications and Implications of Virtual Embodiment</p>
-                        <p>First session 1:35 - 2:20</p>
+                    <div class="column is-4">
+                        <span class="keynote-title"><p>Applications and Implications of Virtual Embodiment</p></span>
+                        <br>
+                        <span class="keynote-time"><p>First session 1:35 - 2:20</p></span>
+                        <br>
                         <p>
                             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
                             sed diam nonumy eirmod tempor invidunt ut labore, sed diam voluptua.
                         </p>
+                        <br>
+                        <div class="buttons">
+                            <a href="schedule.html" class="button is-rouge has-text-jaunelight no-border">
+                                <strong>All the Schedule</strong>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -183,10 +213,10 @@
             </div>
         </div>
 
-        <div class="container is-fluid">
+        <div class="container is-fluid" id="highlights">
             <div class="container">
                 <h2>Highlights of the previous edition</h2>
-
+                <br>
                 <div class="columns">
                     
                     <div class="column">
@@ -272,9 +302,9 @@
                     <div class="columns">
                         <div class="column has-text-centered">
                             <h4>VHCIE</h4>
-                            <a href=""><p>Submission</p></a>
-                            <a href=""><p>Committee</p></a>
-                            <a href=""><p>Schedule</p></a>
+                            <a href="submission.html"><p>Submission</p></a>
+                            <a href="committee.html"><p>Committee</p></a>
+                            <a href="schedule.html"><p>Schedule</p></a>
                             <a href=""><p>Code of conduct</p></a>
                             <a href=""><p>Privacy policy</p></a>
                             <a href="" class="ico"><i class="fab fa-slack"></i></a>

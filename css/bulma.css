@@ -10889,9 +10889,19 @@ label.panel-block:hover {
   background-color: #F2D98D;
 }
 
+.is-rouge{
+  background-color: #A60311;
+}
+
 .is-1{
   width: 6% !important;
 }
+
+.has-text-jaunelight{
+  color: #F2D98D;
+}
+
+    
 
 
 
