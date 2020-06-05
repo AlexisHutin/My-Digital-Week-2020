@@ -179,18 +179,26 @@ nav .navbar-end .buttons{
 }
 
 #highlights{
-    padding-top: 3%;
-    padding-bottom: 3%
+    padding-top: 5%;
+    padding-bottom: 5%
 }
 
 #highlights .card{
-    background-color: black;
+    background-image: url(/img/illustration_home.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#highlights .card p{
+    color: rgba(255, 255, 255, 0);
 }
 
+#highlights .card:hover p{
+    color: white;
+    
+}
 #highlights .card:hover{
     background-color: #A60311;
+    background-image: none;
 }
 
-#highlights .card p{
-    color: white;
-}
