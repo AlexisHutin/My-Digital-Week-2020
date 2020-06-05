@@ -10886,6 +10886,10 @@ label.panel-block:hover {
   color: white;
 }
 
+.is-orangelight{
+  background-color: rgba(250, 199, 136, 0.507);
+}
+
 .no-border{
   border: none;
 }

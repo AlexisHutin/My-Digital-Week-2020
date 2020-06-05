@@ -33,6 +33,7 @@ footer #footer-social{
     padding-top: 2%;
 }
 
+
 .navbar .navbar-item:hover{
     color: #F25D07 !important;
 }
@@ -118,6 +119,12 @@ nav .navbar-end .buttons{
     font-size: 24;
 }
 
+.cursor{
+    font-weight: 700;
+    font-size: large;
+    color: #F25D07;
+}
+
 #keynote{
     padding-top: 3%;
     padding-bottom: 3%;   
@@ -137,6 +144,19 @@ nav .navbar-end .buttons{
 #keynote .keynote-title{
     font-size: 20;
     font-weight: 600;
+}
+
+.speaker-dot {
+    height: 12em;
+    width: 12em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(/img/illustration_committee.svg);
+    border-radius: 50%;
+    border: .25em beige solid;
+    display: inline-block;
+    background-color: #F2D98D;
 }
 
 /*#keynote .keynote-time{

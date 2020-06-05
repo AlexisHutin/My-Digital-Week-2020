@@ -67,8 +67,6 @@ main img {
 
 .cards-title {
     padding-bottom: 0px;
-    margin: 0em 0em -0.5em 0em;
-
 }
 
 .cards-subtitle {
@@ -80,7 +78,7 @@ main img {
 
 .cards-body {
     margin: 0.5em 0em;
-    padding:1em 1em;
+    padding:1.5em 1.5em;
 }
 
 .cards-body p {
@@ -105,8 +103,13 @@ main img {
     transition: 0.2s ease-in-out;
 }
 
+.members-container{
+    padding-top: 3%;
+    padding-bottom: 10%;
+}
+
 .member-profile {
-    padding: 0em 0em 0.5em 0em;
+    padding: 0em 0em 1.5em 0em;
     display: inline-block;
     width: 15%;
     margin: 1em; 
@@ -127,7 +130,7 @@ main img {
 
 .member-name {
     padding-bottom: 0px;
-    margin: 0em 0em -0.5em 0em;
+    /*margin: 0em 0em 0.em 0em;*/
 
 }
 
