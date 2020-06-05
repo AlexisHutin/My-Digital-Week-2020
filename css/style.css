@@ -6,6 +6,7 @@ h1{
     margin: 0.5em;
     text-align: center;
     font: Bold 42px/12px Arial;
+    color: #4a4a4a;
 }
 
 h2{
@@ -74,6 +75,7 @@ nav .navbar-end .buttons{
     font-size: 75;
     font-weight: 600;
     color: #F25D07;
+    margin-left: unset;
 } 
 
 #home-content .ico{
@@ -152,7 +154,7 @@ nav .navbar-end .buttons{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/img/illustration_committee.svg);
+    background-image: url(../img/illustration_committee.svg);
     border-radius: 50%;
     border: .25em beige solid;
     display: inline-block;
@@ -184,7 +186,7 @@ nav .navbar-end .buttons{
 }
 
 #highlights .card{
-    background-image: url(/img/illustration_home.svg);
+    background-image: url(../img/illustration_home.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
