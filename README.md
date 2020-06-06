@@ -70,9 +70,23 @@ La structure de toutes les pages est en place, il ne nous reste plus qu'à trava
 
 ***
 ## Jour 3 : 4 Juin 2020
+
+En cette troisième journée l'intégration bat son plein.   
+Malgré quelques ajustements concernant le placement de certains éléments la plus grosse partie du travail est terminé aujourd'hui. 
+
 ---
 ## Jour 4 : 5 Juin 2020
+
+Dernier jour de cette semaine My Créative Week 2020.  
+Nous avons finalisé les derniers ajustements pour présenter le résultat à la cliente le matin & nous avons préparé tous les fichiers ainsi que notre présentation/entretien avec la cliente en fin d'après midi.
+
 ---
 ## Résultats
+
+Notre travail est consultable en ligne [ici](http://alexis-h.alwaysdata.net/mdw2020/).  
+Vous pouvez retrouver la charte graphique et la maquette du site dans le dossier docs/.
+
+Le résultat final à sembler plaire à la cliente. Cependant quelques ajustements sont nécessaires, notamment retravailler le responsive.
+
 ---
 ## Conclusion
