@@ -1,8 +1,8 @@
 # VHCIE - My Digital Week 2020
 
-Dans le cadre de notre deuxième année d'étude à My Digital School Rennes une semaine est concacrée à la réalisation d'un projet pour un client. Cette année c'est Anne-Hélène Olivier chercheuse au sein du laboratoire M2S de l'université de Rennes 2.
+Dans le cadre de notre deuxième année d'étude à My Digital School Rennes une semaine est consacrée à la réalisation d'un projet pour un client. Cette année c'est Anne-Hélène Olivier chercheuse au sein du laboratoire M2S de l'université de Rennes 2.
 
-4 équipes (formées au sein de la promotion) disposeront de 4 jours pour réaliser un site web & présenter leur réalisation.  
+4 équipes (formées au sein de la promotion) disposeront de 4 jours pour réaliser un site web & présenter leur travail.  
 La cliente choisira le projet qu'elle a préféré parmis les différents projets présentés. 
 
 Elle souhaite créer un site web pour un événement international, le [VHCIE](https://sites.google.com/view/vhcieieeevr2020/home
@@ -72,7 +72,7 @@ La structure de toutes les pages est en place, il ne nous reste plus qu'à trava
 ## Jour 3 : 4 Juin 2020
 
 En cette troisième journée l'intégration bat son plein.   
-Malgré quelques ajustements concernant le placement de certains éléments la plus grosse partie du travail est terminé aujourd'hui. 
+Malgré quelques ajustements concernant le placement de certains éléments la plus grosse partie du travail est terminée aujourd'hui. 
 
 ---
 ## Jour 4 : 5 Juin 2020
@@ -92,14 +92,14 @@ Le résultat final à sembler plaire à la cliente. Cependant quelques ajustemen
 ## Conclusion
 
 **Amélie :**   
-"Ce projet a représenté une bonne immersion dans un travail d'équipe agile ou les qualités de chaque membre est mise en valeur et où les rôles s'adaptent au besoin du projet."
+"Ce projet a représenté une bonne immersion dans un travail d'équipe agile ou les qualités de chaque membre sont mises en valeur et où les rôles s'adaptent au besoin du projet."
 
 **Thoma :**  
-"Durant ce projet j'ai pu, et ce pour la première fois, observer la progression globale en temps réel des différents corps de métiers tout au long du projet . Malheureusement j'ai pu remarquer que ce type de poste n'était pas vraiment fait pour moi, les réalisations manuelles étaient quasiment toujours effectuées par mes collègues ce qui me donnait une impression inutilité."
+"Durant ce projet j'ai pu, et ce pour la première fois, observer la progression globale en temps réel des différents corps de métiers tout au long du projet. Malheureusement j'ai pu remarquer que ce type de poste n'était pas vraiment fait pour moi. Je n'ai pas apprécié de laisser les autres membres de l'équipe faire les réalisations manuelles pendant que je dirigeais le projet de loin."
 
 **Joanel :**  
 "Une Expérience enrichissante à plusieurs niveaux. 
-Ce projet à été l'occasion de mettre la main sur un Framwork CSS autre que Bootstrap; Bulma en l'occurence."
+Ce projet à été l'occasion de mettre la main sur un framework CSS autre que Bootstrap; Bulma en l'occurence."
 
 **Alexis :**  
-"Ce projet m'a permis de mettre en lumière certaines difficultés du travail en équipes (pour une équipe de dev/intégrateur), mais aussi de mettre à l'épreuve mes compétences en intégration. En effet le délai restreint m'a donné l'occasion de faire des erreurs que je ne commettrais plus."
+"Ce projet m'a permis de mettre en lumière certaines difficultés du travail en équipe (pour une équipe de dev/intégrateur), mais aussi de mettre à l'épreuve mes compétences en intégration. En effet le délai restreint m'a donné l'occasion de faire des erreurs que je ne commettrais plus."
