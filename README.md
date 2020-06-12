@@ -83,10 +83,23 @@ Nous avons finalisé les derniers ajustements pour présenter le résultat à la
 ---
 ## Résultats
 
-Notre travail est consultable en ligne [ici](http://alexis-h.alwaysdata.net/mdw2020/).  
+Notre travail est consultable en ligne [ici](https://alexishutin.github.io/My-Digital-Week-2020/).  
 Vous pouvez retrouver la charte graphique et la maquette du site dans le dossier docs/.
 
 Le résultat final à sembler plaire à la cliente. Cependant quelques ajustements sont nécessaires, notamment retravailler le responsive.
 
 ---
 ## Conclusion
+
+**Amélie :**   
+"Ce projet a représenté une bonne immersion dans un travail d'équipe agile ou les qualités de chaque membre est mise en valeur et où les rôles s'adaptent au besoin du projet."
+
+**Thoma :**  
+"Durant ce projet j'ai pu, et ce pour la première fois, observer la progression globale en temps réel des différents corps de métiers tout au long du projet . Malheureusement j'ai pu remarquer que ce type de poste n'était pas vraiment fait pour moi, les réalisations manuelles étaient quasiment toujours effectuées par mes collègues ce qui me donnait une impression inutilité."
+
+**Joanel :**  
+"Une Expérience enrichissante à plusieurs niveaux. 
+Ce projet à été l'occasion de mettre la main sur un Framwork CSS autre que Bootstrap; Bulma en l'occurence."
+
+**Alexis :**  
+"Ce projet m'a permis de mettre en lumière certaines difficultés du travail en équipes (pour une équipe de dev/intégrateur), mais aussi de mettre à l'épreuve mes compétences en intégration. En effet le délai restreint m'a donné l'occasion de faire des erreurs que je ne commettrais plus."
